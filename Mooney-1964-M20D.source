@@ -1,0 +1,271 @@
+# LINES THAT BEGIN WITH # ARE COMMENT LINES AND WILL NOT BE DISPLAYED IN THE CHECKLIST
+# LINES ARE 31 CHARACTERS LONG ON A SKYVIEW 40 PERCENT PAGE
+# LINES ARE 40 CHARACTERS LONG ON A SKYVIEW 50 PERCENT PAGE
+# LINES WITH MORE CHARACTERS THAN ABOVE ARE NOT WRAPPED AND WILL NOT SHOW
+# SV_Checklist_Template_Rev_A.txt
+
+ENGINE START
+Baggage Door - Closed
+Flight Controls - Check
+Headset - Vrfy Batt.
+Circuit Breakers
+Avionics - OFF
+Carb Heat - OFF
+Flaps - Up
+Fuel - Proper Tank
+Mixture - Rich
+Prop - High rpm
+Prop - Clear
+Master - ON
+Fuel Pump - ON
+Throttle - Pump 3x, Idle
+Fuel Pump - OFF
+Mags - Start
+Fuel Pressure - Check
+Oil Pressure - Check
+Lights - As Req.
+Mixture - Lean
+
+PRE-TAXI & TAXI
+Seatbelts
+Flaps - Up
+Avionics - ON
+Weather
+Transponder - Set
+Baro - Set
+Radio - Test
+Breaks - Test
+
+RUN-UP
+Fuel - Proper Tank
+Trim - Takeoff
+Flight Controls - Check
+Mixture - Best Power
+Throttle - 1900-2000 rpm
+Mags - Left/Right Check
+Prop - Cycle 2x
+Carb Heat - Test
+Amps/Volts
+Fuel Pressure
+Oil Pressure
+Oil Temp.
+Throttle - Idle
+
+PRE-TAKEOFF
+Flaps - 2 pumps
+Prop - High rpm
+Mixture - Best Power
+Carb Heat - OFF
+Pitot Heat - As Req.
+Fuel Pump - ON
+Transponder - ON 1200/Sqwk
+Doors - Locked
+Baggage Door - Closed
+Landing Light - ON
+Strobes - ON
+Position Lights - As Req.
+Time - Note
+
+TAKEOFF & CLIMB
+Full Throttle
+Manifold Pressure - Check
+Oil Pressure - Check
+Rotate - 60 kts
+Vy - 87 kts
+Manifold Pressure - Check
+Oil Pressure - Check
+Gear - Up
+Clear Obsticles
+Flaps - Up
+
+CLIMB
+Airspeed - 100 kts
+Throttle - 26 mp
+Prop - 2600 rpm
+Mixture - As Req.
+Fuel Pump - OFF
+Landing Light - OFF
+Flight Plan - Open
+
+CRUISE
+Throttle
+Prop
+Mixture
+Fuel - Proper Tank
+Radio - Next
+Baro - Set
+
+DESCENT
+Throttle
+Mixture - Richen
+Carb Heat - As Req.
+Fuel - Proper Tank
+Baro - Set
+
+PRE-LANDING
+Seatbelts
+Mixture - Best Power
+Carb Heat - ON
+Fuel Pump - ON
+Fuel - Proper Tank
+Gear Down - 104 kts
+Flaps - 92 kts
+
+AFTER LANDING
+Flaps - Up
+Trim - Takeoff
+Carb Heat - OFF
+Fuel Pump - OFF
+Pitot Heat - OFF
+Mixture - Lean
+
+SHUTDOWN AND SECURING
+Landing Light - OFF
+Strobes - OFF
+Position Lights - OFF
+Pitot Heat - OFF
+Transponder - 1200
+Mags - OFF->Both
+Mixture - Cutoff
+Mags - OFF
+Master - OFF
+Hobbs/Tach - Record
+Close Flight Plan
+
+EMERGENCY: ENGINE FAIL TAKEOFF
+Airspeed - 85 kts
+Fuel Selector - OFF
+Mixture - OFF
+Flaps - Down
+Gear - As Req.
+Mags - OFF
+Master - OFF
+Unlatch Door
+
+EMERGENCY: ENGINE FAIL IN-FLT
+Best Glide - 85 kts
+Carb Heat - ON
+Note Wind Direction
+Pick Landing Site
+Mixture - Rich
+Fuel Selector - Check
+Fuel Pump - ON
+Mags - Check All
+Master - ON
+
+EMERGENCY: ENGINE NO RESTART
+Best Glide - 85 kts
+Prop - Pull
+Sqwuak 7700
+Declare Emergency - 121.5
+Fuel Selector - OFF
+Mixture - OFF
+Seatbelts
+Flaps When Landing Assurd.
+Gear Down
+Mags - OFF
+Master - OFF
+Unlatch Door
+
+EMERGENCY: FIRE DURING START
+Continue Cranking Engine
+If Start, Cont. Runing, Shutdown
+If No Start, Cont Cranking
+Throttle Full Open
+Mags - OFF
+Master - OFF
+Evacuate/Fire Extinguisher
+
+EMERGENCY: ELECTRICAL FIRE IN-FLIGHT
+All Electrical Devices Off
+Master Off
+Cabin Heat Closed
+If Fire Out, Continue
+Master - ON
+Vents - Open
+Turn On One Essential Device at a Time
+Reset Circuit Breakers Only if Critical
+Land ASAP
+
+EMERGENCY: ENGINE FIRE IN-FLIGHT
+Fuel Selector - OFF
+Throttle - Closed
+Mixture - OFF
+Mags - OFF
+Master - OFF
+Cabin Heat - OFF
+Cabin Air - OFF
+Increase Airspeed to Extinguish
+Land ASAP
+
+EMERGENCY: RADIO OUT
+Check Circuit Breakers
+Check Volume
+In Controlled Airspace - 7600
+
+EMERGENCY: LIGHT SIGNALS
+TYPE/COLOR  ON GROUND IN-FLIGHT
+STDY GREEN  TAKEOFF   LAND
+FLSH GREEN  TAXI      RETURN
+STDY RED    STOP      YIELD
+FLSH RED    OFF RNWY  UNSAFE
+FLSH WHITE  STARTOVER ----
+ALT RED/GN  EXTREME CAUTION
+
+POH: V-SPEEDS
+Vx - 70 kts
+Vy - 87 kts
+Va - 115 kts
+Vs - 58 kts
+Vso - 49 kts
+Vg - 91 kts
+Vno - 152 kts
+Vfe - 109 kts
+Vne - 174 kts
+
+POH: CONTROL SPEEDS
+Depart Rotate - 60 kts
+Best Angle Climb - 70 kts
+Best Rate Climb - 87 kts
+Cruise Eco - 132 kts
+Cruise Normal - 134 kts
+Cruise Max - 139 kts
+Arrival Approach - 87 kts
+Arrival Short Final - 70 kts
+
+MISC: PHOENETIC ALPHABET
+A - Alpha
+B - Bravo
+C - Charlie
+D - Delta
+E - Echo
+F - Foxtrot
+G - Golf
+H - Hotel
+I - India
+J - Juliet
+K - Kilo
+L - Lima
+M - Mike
+N - November
+O - Oscar
+P - Papa
+Q - Quebec
+R - Romeo
+S - Sierra
+T - Tango
+U - Uniform
+V - Victor
+W - Whiskey
+X - X-Ray
+Y - Yankee
+Z - Zulu
+
+MISC: TRANSPONDER CODES
+VFR - 1200 (USA)
+Hijack - 7500
+Radio Fail - 7600
+Emergency - 7700
+
+CHECKLIST INFO
+LAST UPDATED {{DATETIME}}
