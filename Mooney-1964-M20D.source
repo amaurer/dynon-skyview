@@ -16,7 +16,6 @@ Fuel - Proper Tank
 Mixture - Rich
 Prop - High rpm
 Prop - Clear
-Master - ON
 Fuel Pump - ON
 Throttle - Pump 3x, Idle
 Fuel Pump - OFF
@@ -28,6 +27,7 @@ Mixture - Lean
 
 PRE-TAXI & TAXI
 Seatbelts
+Entry Step - Raise
 Flaps - Up
 Avionics - ON
 Weather
@@ -37,7 +37,6 @@ Radio - Test
 Breaks - Test
 
 RUN-UP
-Fuel - Proper Tank
 Trim - Takeoff
 Flight Controls - Check
 Mixture - Best Power
@@ -48,10 +47,12 @@ Carb Heat - Test
 Amps/Volts
 Fuel Pressure
 Oil Pressure
-Oil Temp.
+Oil Temp
 Throttle - Idle
 
 PRE-TAKEOFF
+Doors - Locked
+Entry Step - Raise
 Flaps - 2 pumps
 Prop - High rpm
 Mixture - Best Power
@@ -59,7 +60,6 @@ Carb Heat - OFF
 Pitot Heat - As Req.
 Fuel Pump - ON
 Transponder - ON 1200/Sqwk
-Doors - Locked
 Baggage Door - Closed
 Landing Light - ON
 Strobes - ON
